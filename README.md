@@ -11,14 +11,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Bullet Hells and Legaltech
+- 🔭 I’m currently working on Blockchain and Legaltech
 - 🌱 I’m currently learning 한국어
-- 👯 I’m looking to collaborate con mara maciza only
-- 🤔 I’m looking for help with existencial crisis
 - 💬 Ask me about dating tips and karaoke
-- 📫 How to reach me: @turupawn en todos lados
-- 😄 Pronouns: 🙅
-- ⚡ Fun fact: dame follow en github y te digo 😉
+- 📫 How to reach me: @turupawn
 
 <!--
 **Turupawn/Turupawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
