@@ -11,9 +11,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Blockchain and Legaltech
-- 🌱 I’m currently learning 한국어
-- 💬 Ask me about dating tips and karaoke
+- 🔭 Working on Blockchain and Legaltech
+- 🌱 Learning 한국어
 - 📫 How to reach me: @turupawn
 
 <!--
