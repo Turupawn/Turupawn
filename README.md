@@ -6,6 +6,11 @@
 - 🌱 Learning 한국어
 - 📫 How to reach me: @turupawn
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Ahmed Castro es un desarrollador de software y creador de contenido en su canal Filosofía Código en dev.to y Youtube. Ahmed se especializa en Blockchain, cubre todo lo relacionado a Smart Contracts, DeFi, NFTs, play to earn, oráculos, Layer 2 y más. Cree fuértemente que la descentralización y autonomía traen muy buenos beneficios para todos, por eso se mantiene enfocado en aprender y difundir sobre tecnologías Web3. Ethereum Foundation ha reconocido el trabajo de Ahmed ortorgándole grants y también ha trabajado junto con otras actores en el espacio como Chainlink, creando contenido educativo. Quién pensaría que todo comenzó en 2013, cuando Ahmed descubrió blockchain y las cryptomonedas gracias a los memes divertidos de Dogecoin, que luego pasaría a convertirse en su hobby y ahora es su pasión.
 
 Ahmed Castro is a dev and content creator in the Youtube Channel Filosofía Código and dev.to. Ahmed specializes on Blockchain, Smart Contracts, DeFi, NFTs, play to earn, oracles, Layer 2 and more. He strongly believes that decentralization and autonomy brings great benefits to everyone, that's why he focuses on learning and spreading about Web3. Ethreum Foundation has recognized Ahmed's work giving him grants and also has worked with other players such as Chainlink creating educational content. Who would have thought that it all started thanks to meme coins in 2013 when Ahmed discovered blockchain, it became is hobby and now his passion.
