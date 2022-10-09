@@ -8,7 +8,9 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pu_tp4d8ii0"><img width="140px" src="https://i.ytimg.com/vi/pu_tp4d8ii0/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xqGLbsLK8MY"><img width="140px" src="https://i.ytimg.com/vi/xqGLbsLK8MY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xqGLbsLK8MY">¡Scroll Testnet ya lanzó! 🚀🚀</a><br/>Oct 9, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=pu_tp4d8ii0"><img width="140px" src="https://i.ytimg.com/vi/pu_tp4d8ii0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pu_tp4d8ii0">Estos son los NFTs más Justos</a><br/>Sep 21, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Rn-MKO2_1yE"><img width="140px" src="https://i.ytimg.com/vi/Rn-MKO2_1yE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Rn-MKO2_1yE">NFTs, lives y POAPs del Merge</a><br/>Sep 18, 2022</td></tr></table>
@@ -16,8 +18,6 @@
 <td><a href="https://www.youtube.com/watch?v=dkUjpXAkdmY">Claimea sin Stakear</a><br/>Sep 12, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EWcEt_vEZcU"><img width="140px" src="https://i.ytimg.com/vi/EWcEt_vEZcU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EWcEt_vEZcU">El Ataque del Sándwich</a><br/>Aug 25, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FPto5N14bVA"><img width="140px" src="https://i.ytimg.com/vi/FPto5N14bVA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FPto5N14bVA">Lanzamiento de Tokens: Nivel Dios</a><br/>Aug 18, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
