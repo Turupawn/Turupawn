@@ -8,7 +8,9 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=f9eED3Lp7DM"><img width="140px" src="https://i.ytimg.com/vi/f9eED3Lp7DM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bHzYevurKCU"><img width="140px" src="https://i.ytimg.com/vi/bHzYevurKCU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bHzYevurKCU">Explorando los contratos inteligentes de Sudoswap</a><br/>Dec 22, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=f9eED3Lp7DM"><img width="140px" src="https://i.ytimg.com/vi/f9eED3Lp7DM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=f9eED3Lp7DM">Cómo lanzar un DEX paso a paso</a><br/>Nov 29, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=khnzvH781iw"><img width="140px" src="https://i.ytimg.com/vi/khnzvH781iw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=khnzvH781iw">Hice un Token con Fees en Balancer</a><br/>Oct 20, 2022</td></tr></table>
@@ -16,8 +18,6 @@
 <td><a href="https://www.youtube.com/watch?v=xqGLbsLK8MY">¡Scroll Testnet ya lanzó! 🚀🚀</a><br/>Oct 9, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pu_tp4d8ii0"><img width="140px" src="https://i.ytimg.com/vi/pu_tp4d8ii0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pu_tp4d8ii0">Estos son los NFTs más Justos</a><br/>Sep 21, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Rn-MKO2_1yE"><img width="140px" src="https://i.ytimg.com/vi/Rn-MKO2_1yE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Rn-MKO2_1yE">NFTs, lives y POAPs del Merge</a><br/>Sep 18, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
