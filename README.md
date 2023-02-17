@@ -8,7 +8,9 @@
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XaHmTjNoVJs"><img width="140px" src="https://i.ytimg.com/vi/XaHmTjNoVJs/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TMC-QCUSh0Q"><img width="140px" src="https://i.ytimg.com/vi/TMC-QCUSh0Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TMC-QCUSh0Q">Cómo iniciar en Blockchain en 2023</a><br/>Feb 17, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=XaHmTjNoVJs"><img width="140px" src="https://i.ytimg.com/vi/XaHmTjNoVJs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XaHmTjNoVJs">Token con Fees en Uniswap V3 ¿Es posible?</a><br/>Feb 7, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=zmGKkFvENDM"><img width="140px" src="https://i.ytimg.com/vi/zmGKkFvENDM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zmGKkFvENDM">Lanzamos 2 cursos en Platzi sobre Layer 2 🚀🚀</a><br/>Jan 28, 2023</td></tr></table>
@@ -16,8 +18,6 @@
 <td><a href="https://www.youtube.com/watch?v=63NtTSxC0xY">Transacciones sin Pagar Gas en Ethereum</a><br/>Jan 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bHzYevurKCU"><img width="140px" src="https://i.ytimg.com/vi/bHzYevurKCU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bHzYevurKCU">Explorando los contratos inteligentes de Sudoswap</a><br/>Dec 22, 2022</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=f9eED3Lp7DM"><img width="140px" src="https://i.ytimg.com/vi/f9eED3Lp7DM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=f9eED3Lp7DM">Cómo lanzar un DEX paso a paso</a><br/>Nov 29, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
