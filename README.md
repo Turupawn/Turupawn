@@ -7,7 +7,7 @@
 - 💬 Ask me about LATAM web3 communities
 - 📫 How to reach me: @turupawn on Telegram and Discrod
 
-# Blog posts
+# Latest Youtube Videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=SAQ5Cvt_ePg"><img width="140px" src="https://i.ytimg.com/vi/SAQ5Cvt_ePg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SAQ5Cvt_ePg">Solidity en 15 minutos</a><br/>Apr 19, 2023</td></tr></table>
