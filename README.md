@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open Source and Web3 communities
 - 🤔 I’m looking for help with the [Randomnes Ceremony](https://github.com/Turupawn/RandomnessCeremony)
 - 💬 Ask me about LATAM web3 communities
-- 📫 How to reach me: @turupawn on Telegram and Discrod
+- 📫 How to reach me: @turupawn on Telegram and Discord
 
 # Latest Youtube Videos
 
