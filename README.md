@@ -9,7 +9,9 @@
 
 # Latest Youtube Videos
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yZe8T1AvIfM"><img width="140px" src="https://i.ytimg.com/vi/yZe8T1AvIfM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_ODiAW8mq3o"><img width="140px" src="https://i.ytimg.com/vi/_ODiAW8mq3o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_ODiAW8mq3o">Fe o Solidity, ¿cuál es es mejor?</a><br/>Dec 8, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=yZe8T1AvIfM"><img width="140px" src="https://i.ytimg.com/vi/yZe8T1AvIfM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yZe8T1AvIfM">OP Stack - Lanza tu propio L2</a><br/>Jul 29, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SAQ5Cvt_ePg"><img width="140px" src="https://i.ytimg.com/vi/SAQ5Cvt_ePg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SAQ5Cvt_ePg">Solidity en 15 minutos</a><br/>Apr 19, 2023</td></tr></table>
@@ -17,8 +19,6 @@
 <td><a href="https://www.youtube.com/watch?v=j4Uvc6heHks">&quot;Lancé un token mal hecho, ¿Qué hago?&quot;</a><br/>Feb 27, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=TMC-QCUSh0Q"><img width="140px" src="https://i.ytimg.com/vi/TMC-QCUSh0Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=TMC-QCUSh0Q">Cómo iniciar en Blockchain en 2023</a><br/>Feb 17, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=XaHmTjNoVJs"><img width="140px" src="https://i.ytimg.com/vi/XaHmTjNoVJs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XaHmTjNoVJs">Token con Fees en Uniswap V3 ¿Es posible?</a><br/>Feb 7, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
