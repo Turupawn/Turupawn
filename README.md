@@ -10,7 +10,7 @@
 # Latest Youtube Videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=_FaE6NY7GdU"><img width="140px" src="https://i.ytimg.com/vi/_FaE6NY7GdU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_FaE6NY7GdU">Desarrollo en ZK para desarolladores</a><br/>Dec 20, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=_FaE6NY7GdU">Desarrollo en ZK para desarolladores</a><br/>Dec 21, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RIbf52hK44I"><img width="140px" src="https://i.ytimg.com/vi/RIbf52hK44I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RIbf52hK44I">The Graph: Indexado y consultas paso a paso</a><br/>Dec 14, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=_ODiAW8mq3o"><img width="140px" src="https://i.ytimg.com/vi/_ODiAW8mq3o/mqdefault.jpg"></a></td>
