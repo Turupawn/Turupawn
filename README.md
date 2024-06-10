@@ -9,7 +9,9 @@
 
 # Latest Youtube Videos
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=nwQotBSZilw"><img width="140px" src="https://i.ytimg.com/vi/nwQotBSZilw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=sbOYmW3XFYA"><img width="140px" src="https://i.ytimg.com/vi/sbOYmW3XFYA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sbOYmW3XFYA">Viene Aave v4 / Cómo ganar intereses en Solidity /</a><br/>Jun 10, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=nwQotBSZilw"><img width="140px" src="https://i.ytimg.com/vi/nwQotBSZilw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nwQotBSZilw">Gana FÁCIL y SEGURO: Triple Restaking en Solidity</a><br/>May 16, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GMXAS1Rck-8"><img width="140px" src="https://i.ytimg.com/vi/GMXAS1Rck-8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GMXAS1Rck-8">Últimos días para entregar artículos sobre AI, ZK, L2 y demás</a><br/>May 3, 2024</td></tr></table>
@@ -17,8 +19,6 @@
 <td><a href="https://www.youtube.com/watch?v=dz92xaLzixc">Hice un lenguaje de programación pero con emojis😜</a><br/>Apr 25, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=tRUyr6hil2Q"><img width="140px" src="https://i.ytimg.com/vi/tRUyr6hil2Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tRUyr6hil2Q">1500$ en premios para devs que quieran aprender sobre ZK, DA, AI, L2 y criptografía aplicada</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=YACCaACN8JA"><img width="140px" src="https://i.ytimg.com/vi/YACCaACN8JA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YACCaACN8JA">¡Entiende las Attestations! Guía definitiva 📚</a><br/>Feb 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
