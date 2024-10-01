@@ -10,7 +10,7 @@
 # Latest Youtube Videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=n-QFzXLctgc"><img width="140px" src="https://i.ytimg.com/vi/n-QFzXLctgc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n-QFzXLctgc">ZK: ¿Porqué aplicar🧂Salt en parámetros privados?</a><br/>Oct 1, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=n-QFzXLctgc">Este es el error más común en Zero Knowledge</a><br/>Oct 1, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9joQndSn-nA"><img width="140px" src="https://i.ytimg.com/vi/9joQndSn-nA/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9joQndSn-nA">Cómo crear Juegos 100% on-chain con ZK</a><br/>Aug 28, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=twqcNERMJxw"><img width="140px" src="https://i.ytimg.com/vi/twqcNERMJxw/mqdefault.jpg"></a></td>
