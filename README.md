@@ -18,7 +18,7 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=DwgQcYMO0i4"><img width="140px" src="https://i.ytimg.com/vi/DwgQcYMO0i4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DwgQcYMO0i4">Préstamos sin Colateral en Ethereum</a><br/>Oct 3, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=n-QFzXLctgc"><img width="140px" src="https://i.ytimg.com/vi/n-QFzXLctgc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n-QFzXLctgc">ZK: ¿Porqué aplicar🧂Salt en parámetros privados?</a><br/>Oct 1, 2024</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=n-QFzXLctgc">¿Cómo funcionan los Préstamos Privados ZK?</a><br/>Oct 1, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
