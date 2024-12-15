@@ -9,7 +9,9 @@
 
 # Latest Youtube Videos
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NQ8ZkWFOvkw"><img width="140px" src="https://i.ytimg.com/vi/NQ8ZkWFOvkw/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=GW4oqSAYWF4"><img width="140px" src="https://i.ytimg.com/vi/GW4oqSAYWF4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GW4oqSAYWF4">Guardrails para AI Agents</a><br/>Dec 15, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NQ8ZkWFOvkw"><img width="140px" src="https://i.ytimg.com/vi/NQ8ZkWFOvkw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NQ8ZkWFOvkw">¡TENÉS que probar este JUEGO!</a><br/>Oct 22, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=iICUmMYUBP8"><img width="140px" src="https://i.ytimg.com/vi/iICUmMYUBP8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=iICUmMYUBP8">Esta fórmula mueve billones de dólares diarios</a><br/>Oct 18, 2024</td></tr></table>
@@ -17,8 +19,6 @@
 <td><a href="https://www.youtube.com/watch?v=Ostjz27VDEE">¿Es posible?</a><br/>Oct 14, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U_1EIui6wLM"><img width="140px" src="https://i.ytimg.com/vi/U_1EIui6wLM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U_1EIui6wLM">¿World of Warcraft en Ethereum?</a><br/>Oct 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=DwgQcYMO0i4"><img width="140px" src="https://i.ytimg.com/vi/DwgQcYMO0i4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DwgQcYMO0i4">Préstamos sin Colateral en Ethereum</a><br/>Oct 3, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
