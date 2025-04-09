@@ -10,7 +10,7 @@
 # Latest Youtube Videos
 
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4JX3kMOwbjo"><img width="140px" src="https://i.ytimg.com/vi/4JX3kMOwbjo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4JX3kMOwbjo">¿Cual es mejor? Stablecoin Centralizadas VS Crypto</a><br/>Apr 3, 2025</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=4JX3kMOwbjo">Stablecoin Centralizadas VS Crypto ¿Cual es mejor?</a><br/>Apr 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zk7JWJKfFzQ"><img width="140px" src="https://i.ytimg.com/vi/Zk7JWJKfFzQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zk7JWJKfFzQ">Cómo crear una Stablecoin</a><br/>Mar 31, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GW4oqSAYWF4"><img width="140px" src="https://i.ytimg.com/vi/GW4oqSAYWF4/mqdefault.jpg"></a></td>
