@@ -9,7 +9,9 @@
 
 # Latest Youtube Videos
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4JX3kMOwbjo"><img width="140px" src="https://i.ytimg.com/vi/4JX3kMOwbjo/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=UR_EyfqaT9g"><img width="140px" src="https://i.ytimg.com/vi/UR_EyfqaT9g/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UR_EyfqaT9g">La NUEVA GENERACIÓN de Wallets Web3 - EIP7702</a><br/>Apr 11, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4JX3kMOwbjo"><img width="140px" src="https://i.ytimg.com/vi/4JX3kMOwbjo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4JX3kMOwbjo">Stablecoin Centralizadas VS Crypto ¿Cual es mejor?</a><br/>Apr 3, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=Zk7JWJKfFzQ"><img width="140px" src="https://i.ytimg.com/vi/Zk7JWJKfFzQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Zk7JWJKfFzQ">Cómo crear una Stablecoin</a><br/>Mar 31, 2025</td></tr></table>
@@ -17,8 +19,6 @@
 <td><a href="https://www.youtube.com/watch?v=GW4oqSAYWF4">Guardrails para AI Agents</a><br/>Dec 15, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NQ8ZkWFOvkw"><img width="140px" src="https://i.ytimg.com/vi/NQ8ZkWFOvkw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NQ8ZkWFOvkw">¡TENÉS que probar este JUEGO!</a><br/>Oct 22, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=iICUmMYUBP8"><img width="140px" src="https://i.ytimg.com/vi/iICUmMYUBP8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iICUmMYUBP8">Esta fórmula mueve billones de dólares diarios</a><br/>Oct 18, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
