@@ -9,7 +9,9 @@
 
 # Latest Youtube Videos
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=fq2OG9WLaXc"><img width="140px" src="https://i.ytimg.com/vi/fq2OG9WLaXc/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=G0Fut_HjrzQ"><img width="140px" src="https://i.ytimg.com/vi/G0Fut_HjrzQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=G0Fut_HjrzQ">Morpho Sobrepasó los 10 Billone$ 👀</a><br/>Jul 29, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=fq2OG9WLaXc"><img width="140px" src="https://i.ytimg.com/vi/fq2OG9WLaXc/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fq2OG9WLaXc">el MEJOR tutorial de ZK que vas a encontrar</a><br/>Apr 28, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/7gYdvhBjxc0"><img width="140px" src="https://i.ytimg.com/vi/7gYdvhBjxc0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/7gYdvhBjxc0">¿Hubo fraude?</a><br/>Apr 25, 2025</td></tr></table>
@@ -17,8 +19,6 @@
 <td><a href="https://www.youtube.com/shorts/3M0t22-yMzA">Todo sube menos tu sueldo #despierta #mentirasdelsistema #aprendedeeconomia #corrupcion</a><br/>Apr 13, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=UR_EyfqaT9g"><img width="140px" src="https://i.ytimg.com/vi/UR_EyfqaT9g/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UR_EyfqaT9g">La NUEVA GENERACIÓN de Wallets Web3 - EIP7702</a><br/>Apr 11, 2025</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/4JX3kMOwbjo"><img width="140px" src="https://i.ytimg.com/vi/4JX3kMOwbjo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/4JX3kMOwbjo">Stablecoin Centralizadas VS Crypto ¿Cual es mejor?</a><br/>Apr 3, 2025</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 <!-- YOUTUBE:START -->
